@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "pifagor.h"
 
 int main(int argc, char *argv[])
 {
@@ -14,5 +15,8 @@ int main(int argc, char *argv[])
     sscanf(argv[2], "%lf", &b);
 
     printf("a = %f\t b = %f\n", a, b);
+
+    double result = pifagor(a, b);
+    printf("result is %lf\n", result);
     return 0;
 }
