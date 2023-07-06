@@ -36,7 +36,6 @@
 		</Unit>
 		<Unit filename="pifagor.c">
 			<Option compilerVar="CC" />
-			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="pifagor.h">
 			<Option target="&lt;{~None~}&gt;" />
