@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1688640799 source:c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor\pifagor_test\main.c
+	"unity.h"
+	"pifagor.h"
+
+1686595893 c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor\pifagor_test\unity\unity.h
+	"unity_internals.h"
+
+1686595893 c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor\pifagor_test\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<sdkddkver.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1688638195 c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor\pifagor\pifagor.h
+
+1688638434 source:c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor\pifagor\pifagor.c
+	"pifagor.h"
+	<math.h>
+
+1686595893 source:c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor\pifagor_test\unity\unity.c
+	"unity.h"
+
