@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1688637843 source:c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor\pifagor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pifagor.h"
+
+1688637504 c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor\pifagor\pifagor.h
+
+1688637562 source:c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor\pifagor\pifagor.c
+	"pifagor.h"
+

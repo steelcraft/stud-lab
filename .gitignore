@@ -3,3 +3,5 @@
 *.odg#
 *.~$lock
 *.docx
+*.o
+*.exe
