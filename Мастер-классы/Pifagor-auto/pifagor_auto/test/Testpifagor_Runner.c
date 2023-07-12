@@ -7,7 +7,7 @@
 /*=======External Functions This Runner Calls=====*/
 extern void setUp(void);
 extern void tearDown(void);
-extern void test_pifagor_NeedToImplement(void);
+extern void test_pifagor_3_and_4_should_return_5(void);
 
 
 /*=======Mock Management=====*/
@@ -69,7 +69,7 @@ static void run_test(UnityTestFunction func, const char* name, UNITY_LINE_TYPE l
 int main(void)
 {
   UnityBegin("test/Testpifagor.c");
-  run_test(test_pifagor_NeedToImplement, "test_pifagor_NeedToImplement", 15);
+  run_test(test_pifagor_3_and_4_should_return_5, "test_pifagor_3_and_4_should_return_5", 15);
 
   return UnityEnd();
 }
