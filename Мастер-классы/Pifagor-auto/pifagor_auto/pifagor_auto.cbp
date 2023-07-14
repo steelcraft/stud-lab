@@ -50,11 +50,15 @@
 		<Unit filename="Unity/src/unity.h">
 			<Option target="Test" />
 		</Unit>
+		<Unit filename="include/my_sqrt.h" />
 		<Unit filename="include/pifagor.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 			<Option target="Debug" />
 			<Option target="Release" />
+		</Unit>
+		<Unit filename="src/my_sqrt.c">
+			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="src/pifagor.c">
 			<Option compilerVar="CC" />

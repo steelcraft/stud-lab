@@ -4,9 +4,9 @@
 	<stdlib.h>
 	"pifagor.h"
 
-1689154868 source:c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor-auto\pifagor_auto\src\pifagor.c
+1689324535 source:c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor-auto\pifagor_auto\src\pifagor.c
 	"pifagor.h"
-	<math.h>
+	"my_sqrt.h"
 
 1689154868 c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor-auto\pifagor_auto\include\pifagor.h
 
@@ -38,4 +38,10 @@
 
 1686595893 source:c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor-auto\pifagor_auto\unity\src\unity.c
 	"unity.h"
+
+1689324310 source:c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor-auto\pifagor_auto\src\my_sqrt.c
+	"my_sqrt.h"
+
+1689324502 c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor-auto\pifagor_auto\include\my_sqrt.h
+	<math.h>
 
