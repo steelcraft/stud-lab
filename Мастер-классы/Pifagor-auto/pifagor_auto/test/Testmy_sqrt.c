@@ -12,9 +12,9 @@ void tearDown(void)
 {
 }
 
-void test_my_sqrt_NeedToImplement(void)
+void test_my_sqrt_25_should_return_5(void)
 {
-    TEST_IGNORE_MESSAGE("Need to Implement my_sqrt");
+    double result = my_sqrt(25.0);
+    TEST_ASSERT_EQUAL_FLOAT(5.0, result);
 }
-
 #endif // TEST

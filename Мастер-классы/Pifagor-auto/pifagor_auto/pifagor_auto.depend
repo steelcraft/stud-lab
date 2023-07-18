@@ -10,7 +10,7 @@
 
 1689154868 c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor-auto\pifagor_auto\include\pifagor.h
 
-1689160584 source:c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor-auto\pifagor_auto\test\testpifagor.c
+1689343860 source:c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor-auto\pifagor_auto\test\testpifagor.c
 	"unity.h"
 	"pifagor.h"
 
@@ -39,9 +39,39 @@
 1686595893 source:c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor-auto\pifagor_auto\unity\src\unity.c
 	"unity.h"
 
-1689324310 source:c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor-auto\pifagor_auto\src\my_sqrt.c
+1689333239 source:c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor-auto\pifagor_auto\src\my_sqrt.c
 	"my_sqrt.h"
 
 1689324502 c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor-auto\pifagor_auto\include\my_sqrt.h
 	<math.h>
+
+1689332964 source:c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor-auto\pifagor_auto\test\testmy_sqrt.c
+	"unity.h"
+	"my_sqrt.h"
+
+1689332892 source:c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor-auto\pifagor_auto\test\testmy_sqrt_runner.c
+	"unity.h"
+	"my_sqrt.h"
+
+1689327538 source:c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor-auto\pifagor_auto\mocks\mockmy_sqrt.c
+	<string.h>
+	<stdlib.h>
+	<setjmp.h>
+	"cmock.h"
+	"Mockmy_sqrt.h"
+
+1683551883 c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor-auto\pifagor_auto\cmock\src\cmock.h
+	"cmock_internals.h"
+	<stddef.h>
+
+1683551883 c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor-auto\pifagor_auto\cmock\src\cmock_internals.h
+	"unity.h"
+	<stdlib.h>
+
+1689327538 c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor-auto\pifagor_auto\mocks\mockmy_sqrt.h
+	"unity.h"
+	"my_sqrt.h"
+
+1683551883 source:c:\users\hachkinaev_ov\documents\projects\stud-lab\Мастер-классы\pifagor-auto\pifagor_auto\cmock\src\cmock.c
+	"cmock.h"
 
