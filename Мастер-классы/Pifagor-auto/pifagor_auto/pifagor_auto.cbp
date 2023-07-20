@@ -37,12 +37,21 @@
 					<Add option="-DTEST" />
 					<Add directory="Unity/src" />
 					<Add directory="include" />
+					<Add directory="mocks" />
+					<Add directory="CMock/src" />
 				</Compiler>
 			</Target>
 		</Build>
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="CMock/src/cmock.c">
+			<Option compilerVar="CC" />
+			<Option target="Test" />
+		</Unit>
+		<Unit filename="CMock/src/cmock.h">
+			<Option target="Test" />
+		</Unit>
 		<Unit filename="Unity/src/unity.c">
 			<Option compilerVar="CC" />
 			<Option target="Test" />
@@ -50,14 +59,39 @@
 		<Unit filename="Unity/src/unity.h">
 			<Option target="Test" />
 		</Unit>
+		<Unit filename="include/my_sqrt.h" />
 		<Unit filename="include/pifagor.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 			<Option target="Debug" />
 			<Option target="Release" />
 		</Unit>
+		<Unit filename="mocks/Mockmy_sqrt.c">
+			<Option compilerVar="CC" />
+			<Option target="Test" />
+		</Unit>
+		<Unit filename="mocks/Mockmy_sqrt.h">
+			<Option target="Test" />
+		</Unit>
+		<Unit filename="src/my_sqrt.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="src/pifagor.c">
 			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test/Testmy_sqrt.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Test" />
+		</Unit>
+		<Unit filename="test/Testmy_sqrt_Runner.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Test" />
 		</Unit>
 		<Unit filename="test/Testpifagor.c">
 			<Option compilerVar="CC" />
