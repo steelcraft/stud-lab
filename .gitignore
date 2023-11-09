@@ -5,3 +5,5 @@
 *.docx
 *.o
 *.exe
+~*.*
+*.layout
